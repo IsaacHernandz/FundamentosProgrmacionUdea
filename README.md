@@ -13,17 +13,3 @@ El objetivo es poner en práctica los conceptos básicos de programación, aplic
 
 ---
 
-## 🛠️ Contenido
-- ✅ Ejercicios prácticos en Python  
-- ✅ Conceptos fundamentales de lógica y algoritmia  
-- ✅ Solución paso a paso de cada problema  
-
----
-
-## 🚀 Tecnologías utilizadas
-- 🐍 **Python 3**  
-- 📝 **Jupyter Notebook / VS Code**  
-
----
-
-## 📑 Estructura del repositorio
