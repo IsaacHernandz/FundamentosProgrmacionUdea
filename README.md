@@ -9,7 +9,6 @@
 
 ## 📂 Descripción
 Este repositorio contiene el desarrollo del **Taller 1** de la materia **Fundamentos de Programación**.  
-El objetivo es poner en práctica los conceptos básicos de programación, aplicados a la analítica y la ciencia de datos.  
-
+El objetivo es poner en práctica los conceptos básicos de programación, Funciones, metodos y clases.  
 ---
 
