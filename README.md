@@ -51,7 +51,4 @@ Este taller presenta un análisis exploratorio de datos basado en información s
 
 Para correr correctamente los talleres, sigue estos pasos:
 
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/IsaacHernandz/FundamentosProgrmacionUdea
-cd repositorio-udea
+## se dbe ejcutar completo el notecook y de esta manera se tendran todas las visuaizaciones, al correr verticalemnte no se necesitan configuraciones adicionales
